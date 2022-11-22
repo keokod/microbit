@@ -36,17 +36,23 @@ paragraphe 5 : l'entrée singal electrique
   que l'électron passe par une entrée extérieur.
 
 Chaptire 3 : les sortie du microbit:
-le microbit possède 3 type de sortie:
+le microbit possède 3 type de sortie qui seront une information visuelle pour les LED, sonor pour nos oreille et electrique pour générer des électrons
+qui vons de séplacer sur d'autre carte ou capteur.
 
 paragraphe 1 : sortie visuelle par des LED.
+  Le microbit contient 25 LED sous forme matriciel elle permettra à nos yeux de comprendre ou de voir le résultat de l'exécution de la carte. 
 paragraphe 2 : sortie sonore
+  La carte contient un buzzer un electroaimant elle va vibrer selons le son qu'on souhaite emettre.
 paragraphe 3 : sortie électrique
+  la sortie electrique est une formation qu'on souhaite transmettre en sortie de la carte pour y commander par exemple une led qui va
+  s'allumer à un moment précis de notre programme.
 
 Chapitre 4 : Comment utiliser le microbit ?
 L'environnement du microbit est assez simple, on créer un programme un outil qui se nomme
 éditeur de block pour les débutants, et une fois terminer, l'outil va nous générer un fichier 
 "hex" sous forme de texte qui n'est composé que de 0 et de 1 cela s'appelle la compilation, l'utilisation de tout ces outils 
 s'appelle environment de développement.
+
 
 Chapitre5 : environnement de développement:
 Une multitude d'outil gratuite est à notre disposition pour générer notre fameux fichier.
