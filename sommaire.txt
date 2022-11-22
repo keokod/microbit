@@ -4,8 +4,9 @@ Un microbit est un circuit imprimé qui contient des composant qui permet de fai
 votre immagination comme des robot, voiture, drone ou encore système de culture automatiser. Grâche au langage bock il est facile de commencer à faire
 de la programmation.
 
-Chaptire 1 comment s'y prendre pour l'utliser ?
-Grâce au cable USB, il est facile de l'utiliser , le principe est simple , dans un premier temps on concoit notre programme sous forme graphique avec le langage block et pour y arriver on à un outil ergonomique mise à disposition en ligne.
+Chaptire 1 comment s'y prendre pour l'utliser et par ou commencer?
+Grâce au cable USB, il est facile de l'utiliser , le principe est simple , dans un premier temps on concoit notre programme sous forme graphique avec le langage block et pour y arriver on à un outil ergonomique mise à disposition en ligne, il est nécessaire étape par étape de piocher les informations pour arrivé à 
+faire fonctionner la fonctionnalité que vous avez programmé.
 
 
 paragraphe 1 : niveau du hardware:
@@ -17,13 +18,22 @@ Pour en savoir plus:
 https://tech.microbit.org/hardware/
 
 Chapitre 2 : les entrer du microbit :
-le microbit possède 5 types d'entréer, chaque entrée est une information différente selon sa nature,
-pour un bouton physique c'est électrique .
+le microbit possède 5 types d'entréer, chaque entrée est une information différente selon sa nature.
+
 paragraphe 1 : les boutons physique switch sous forme mécanique.
+  pour un bouton physique c'est une information électrique traité qui fait juste de conduire à travers une languette 
+qui fait condire l'électron.
 paragraphe 2 : le bouton tactile.
+  le bouton tactile est deux borne de piste de cuivre auquel il faudra faire contacte avec notre peau on remplace la languette par notre peau.
 paragraphe 3 : l'entrée sonore.
+  l'entréer sonore est une valeur de tension physique on va faire fibrer un electroaimant qui va la transformer en signal qui va
+  directement à la puce de traitement sonore.
 paragraphe 4 : l'entréer gyroscopique.
+  L'entrée de position est une minuscule plaque qu'on fait "rouler" une infime goutte conductrice qui va se déplacer en fonction de
+  l'inclinaison de la carte, chaque déplacement de cette groutte va faire conduire un circuit matriciel cela ressemble beaucoup à un jeux de bille qu'on déroule dans un labyrinthe.
 paragraphe 5 : l'entrée singal electrique
+   Le signal d'entréer externe similairement identique au singal switch à la différence c'est
+  que l'électron passe par une entrée extérieur.
 
 Chaptire 3 : les sortie du microbit:
 le microbit possède 3 type de sortie:
