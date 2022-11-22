@@ -1,0 +1,80 @@
+Chapitre 1: Qu'est ce qu'un microbit ?
+
+Un microbit est un circuit imprimé qui contient des composant qui permet de faire des calcul, 
+comment s'y prendre pour l'utliser ?
+
+paragraphe 1 : niveau du hardware:
+les entréer - les sorties - composant de calcul.
+
+Chapitre 2 : les entrer du microbit :
+
+le microbit possède 5 types d'entréer.
+paragraphe 1 : les boutons physique switch sous forme mécanique.
+paragraphe 2 : le bouton tactile.
+paragraphe 3 : l'entrée sonore.
+paragraphe 4 : l'entréer gyroscopique.
+paragraphe 5 : l'entrée singal electrique
+
+Chaptire 3 : les sortie du microbit:
+le microbit possède 3 type de sortie:
+
+paragraphe 1 : sortie visuelle par des LED.
+paragraphe 2 : sortie sonore
+paragraphe 3 : sortie électrique
+
+Chapitre 4 : Comment utiliser le microbit ?
+L'environnement du microbit est assez simple, on créer un programme un outil qui se nomme
+éditeur de block pour les débutants, et une fois terminer, l'outil va nous générer un fichier 
+"hex" sous forme de texte qui n'est composé que de 0 et de 1 cela s'appelle la compilation, l'utilisation de tout ces outils 
+s'appelle environment de développement.
+
+Chapitre5 : environnement de développement:
+Une multitude d'outil gratuite est à notre disposition pour générer notre fameux fichier.
+ces outils peuvent être soit utiliser en ligne soit en local et dans plusieurs langage.
+
+paragraphe 1 : différence entre un editeur en ligne et et un éditeur en local ainsi que nom
+des éditeurs.
+paragraphe 2 : générer un code simple avec un editeur de block(en ligne) et comprendre sa forme.
+paragraphe 3 : générer un code simple avec du code source python.
+paragraphe 2 : générer un code simple avec du code source code javascript.
+
+Chapitre 6:Apprendre les fondamentaux de la programmation:
+Pour créer un programme il est nécéssaire de comprendre les base de la programmation, 
+connaître quelle inustraction on va demander à faire exécuter de notre microbit, l'instruction la plus
+simple à comprendre étant d'afficher une information visuel comme un led qui s'allume allant jusqu'a
+la complexité de gérer une matrice à led.
+
+paragraphe 1 : les instructions procédural simple.
+paragraphe 2 : les instructions procédural précharger.
+paragraphe 3 : les instructions les calculs.
+paragraphe 5 : les instructions les opérateurs.
+paragraphe 4 : les instructions les boucles.
+paragraphe 5 : la gestion de la mémoire.
+paragraphe 7 : les fonctions.
+
+Chapitre 7: les extensions avec le microbit.
+Afin de demander plus au microbit sur ses factionnalité supplémentaire on va profiter
+des extensions proposé, c'est tout simplement des programmes déjà élaboré qu'on ajuste à ajouté
+dans notre environnement de développement , on profite ainsi l'expérience des autres qui on 
+créer des fonctionnalités intéressant couplé avec d'autre carte électronique.
+
+chapitre 8 : Comment fonctionne les capteurs électronique:
+
+paragraphe 1: la led
+paragraphe 2: la microphone
+paragraphe 3: la position d'axe 
+paragraphe 4: le buzzer
+paragraphe 5: la touche tactile
+paragraphe 6: entrer et sortie numérique
+paragraphe 7: entrer et sortie analogique
+
+
+Chapitre 8:comment créer un projet.
+Une fois que vous êtes à l'aise avec l'envrionnement de développement et avez les rudments
+des instructions basique en programmation,à testé les possiblité d'interéagrire, vous pouvez commencer à réléchir comment vous aller créer 
+votre projets.
+
+
+
+
+
