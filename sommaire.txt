@@ -9,7 +9,14 @@ Grâce au cable USB, il est facile de l'utiliser , le principe est simple , dans
 
 
 paragraphe 1 : niveau du hardware:
-les entréer - les sorties - composant de calcul.
+Qu'est ce le hardware, c'est tout simplement les composants électronique qui le compose la carte.
+Généralement une carte à programmer a toujours les mêmes bases: les entréer ce sont le programme qu'on va insérer ou les information
+qu'on va donner à la carte. Les sorties se sont les résultats de notre programme comme par exemple la commande d'une LED.
+Les composants de calcluls ce sont les puces électronique qui va en fonction des entréer traiter l'inforomation et sortir un résultat.
+
+paragraphe 1 : les entréer. 
+paragraphe 2 : les sorties. 
+paragraphe 3 : composant de calcul.
 
 Chapitre 2 : les entrer du microbit :
 
