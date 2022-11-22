@@ -1,7 +1,12 @@
-Chapitre 1: Qu'est ce qu'un microbit ?
+Introduction: Qu'est ce qu'un microbit ?
 
-Un microbit est un circuit imprimé qui contient des composant qui permet de faire des calcul, 
-comment s'y prendre pour l'utliser ?
+Un microbit est un circuit imprimé qui contient des composant qui permet de faire beaucoup d'objet technique commme faire des projets varié selon
+votre immagination comme des robot, voiture, drone ou encore système de culture automatiser. Grâche au langage bock il est facile de commencer à faire
+de la programmation.
+
+Chaptire 1 comment s'y prendre pour l'utliser ?
+Grâce au cable USB, il est facile de l'utiliser , le principe est simple , dans un premier temps on concoit notre programme sous forme graphique avec le langage block et pour y arriver on à un outil ergonomique mise à disposition en ligne.
+
 
 paragraphe 1 : niveau du hardware:
 les entréer - les sorties - composant de calcul.
