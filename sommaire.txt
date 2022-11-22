@@ -60,9 +60,17 @@ ces outils peuvent être soit utiliser en ligne soit en local et dans plusieurs 
 
 paragraphe 1 : différence entre un editeur en ligne et et un éditeur en local ainsi que nom
 des éditeurs.
+  L'éditeur en ligne permet facilement de créer des programment, notre envorironnement est très colorée et 
+  des éléments sont déplacable et imbriquable celui du site microbit est un bon example. 
 paragraphe 2 : générer un code simple avec un editeur de block(en ligne) et comprendre sa forme.
+  la forme des blocs sont aussi importante et reconnaissable dans les documents technique, le losange indiqu'on qu'on test 
+  quelque chose , les eclipses sont des simple instruction séquentiel, et le corchet pour l'utilisation des blocks sont imbricable.
 paragraphe 3 : générer un code simple avec du code source python.
+  pour générer du code python il suffit de basculer à traver le bouton glissière, le code python est moins ergonomique que le block mais il est plus souple.
+  Si le code est bien structuré il est simple de le récupérer, faire un copier coller et rebasculer en mode block. IL est plus adapté à un niveau supérieur que débutant
 paragraphe 2 : générer un code simple avec du code source code javascript.
+  Le code javascript quand à lui est identique au fonctionnement du python , mais est plutôt conseillé à un expert car sa syntaxe est difficile à comprendre
+  du premier coup
 
 Chapitre 6:Apprendre les fondamentaux de la programmation:
 Pour créer un programme il est nécéssaire de comprendre les base de la programmation, 
